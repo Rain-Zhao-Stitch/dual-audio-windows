@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+publish*/
+.vs/
+*.user
+*.suo
+*.zip
+
+# Local recordings and diagnostic captures
+Diagnostics/
+sync-listen-*/
